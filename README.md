@@ -1,4 +1,4 @@
-# T-Editor
+<h1 style="color=red">T-Editor</h1>
 <br><br>
 T-Editor is a simple plain text editor
 
