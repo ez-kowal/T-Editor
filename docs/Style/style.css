@@ -1,20 +1,67 @@
 
 
 body {
-    font-family: Pixelate;
-
-    background-color: rgb(240, 240, 240);
+    background-color: rgb(226, 219, 219);
 }
 .Header {
     font-size: 60px;
+
 }
 .HT {
     position: absolute;
-    top: -5px;
-    left: 100px;
+    top: 4%;
+    left: 8%;
 }
 .HD {
     position: absolute;
-    top: 45px;
-    left: 50px;
+    top: 5%;
+    left: 5%;
+}
+p {
+    font-size: x-large;
+}
+.UT {
+    position: absolute;
+    font-size: 20px;
+    left: 5.2%;
+    top: 9%;
+}
+
+
+.button {
+    padding: 10;
+    font-family: Pixelate;
+    font-size: 18px;
+    color: rgb(0,0,0);
+    background-color: azure;
+}
+.button:hover {
+    transition: 0.2s;
+    background-color: rgb(207, 203, 166);
+}
+
+footer {
+    position: fixed;
+    bottom: 0%;
+}
+
+.footer_text {
+    font-size: 15px;
+}
+
+.Main_Text {
+    position: absolute;
+    left: 5%;
+    top: 25%;
+}
+
+.img {
+    position: absolute;
+    right: 8%;
+    top: 4%;
+}
+.Update {
+    position: absolute;
+    right: 8%;
+    top: 65%;
 }
