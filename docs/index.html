@@ -1,27 +1,74 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google-site-verification" content="Sm8897dJkN80CwSOYo9cQFqkJKSa_5vr8L-wrZiy4Aw" />
     <meta name="robots" content="T-Editor is a bad text editor and is still in progress but it is also fun to make" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>T-Editor</title>
     <link rel="stylesheet" href="Style/style.css">
 	<style> 
 	@font-face {
-		font-family: myFirstFont;
+		font-family: Pixelate;
 		src: url("Style/pixels.woff") format("woff");
 	}
 
-	div {
-		font-family: myFirstFont;
+	body {
+		font-family: Pixelate;
 	}
 </style>
 </head>
 <body>
-    <div>
         <h1 class="Header HT">T-Editor</h1>
         <img class="Header HD" src="Icon.png" alt="Icon">
+        <p class="UT">T-editor is a simple text editor it can open and edit .txt files <br>(and baybe more in the future :p)</p>
+    </div>
+    <section id="main_text">
+        <div class="Main_text">
+            <p>As i said just over this is just a plain txt editor 
+                <br> and it is just a not so great function of notepad
+                <br> To find out how to use it go to "info" tab under "Other"
+                <br> And oyu can find this project on github <a href="https://github.com/kowal05/T-Editor/">here</a>
+                <br>
+                <br> Download:
+            </p>
+            <button type="submit" onclick="location.href='https://github.com/kowal05/T-Editor/raw/master/Installer.exe';" class="button Installer">Installer</button>
+            <button style="font-family: Pixelate;" type="submit" onclick="location.href='https://github.com/kowal05/T-Editor/raw/master/T-Editor.zip';" class="button zip">Zip file</button>
+        </div>
+        <div class="img">
+            <img src="image.png" alt="a screenshot">
+        </div>
+    </section>
+    <section id="updates">
+        <div class="Update">
+            <h1>Updates:</h1>
+            <p> <br>V0.5:
+                <br>Added the basic Save,Save as,New and Open
+                <br>removed config menu because it confilcted with the appJAr module capebilities
+                <br>
+                <br>V0.4:
+                <br>Bug fixes
+                <br>
+                <br>V0.3:
+                <br>Added a config menu
+                <br>
+                <br>V0.0.1 to V0.2:
+                <br>made it the basic work
+                <br>
+
+            </p>
+        </div>
+    </section>
+</body>
+<footer>
+    <div>
+        <form class="donate" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick" />
+            <input type="hidden" name="hosted_button_id" value="NRP9NN8G9ZNQU" />
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+            <img alt="" border="0" src="https://www.paypal.com/en_DK/i/scr/pixel.gif" width="1" height="1" />
+            </form>
+        <p class="footer_text">Copyright © 2020 by <a href="https://github.com/kowal05">kowal05</a></p>
     </div>
     
-</body>
+</footer>
 </html>
