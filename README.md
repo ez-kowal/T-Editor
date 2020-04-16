@@ -8,4 +8,4 @@ you can download a zip file [here](https://github.com/kowal05/T-Editor/raw/maste
 <br>
 or a installer [here](https://github.com/kowal05/T-Editor/raw/master/Installer.exe)
 <br>
-##### You can also visit T-Editors website ![here](https://kowal05.github.io/T-Editor/)
+##### You can also visit T-Editors website [here](https://kowal05.github.io/T-Editor/)
