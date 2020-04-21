@@ -6,7 +6,7 @@ T-Editor is a simple plain text editor
 
 you can download a zip file [here](https://github.com/kowal05/T-Editor/raw/master/T-Editor.zip) <br>
 <br>
-or a installer [here](https://github.com/kowal05/T-Editor/raw/master/Installer.exe)
+or a installer [here](https://github.com/kowal05/T-Editor/raw/master/Installer.exe)(only for windows)
 <br>
 ##### You can also visit T-Editors website [here](https://kowal05.github.io/T-Editor/)
 
