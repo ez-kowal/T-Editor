@@ -9,3 +9,10 @@ you can download a zip file [here](https://github.com/kowal05/T-Editor/raw/maste
 or a installer [here](https://github.com/kowal05/T-Editor/raw/master/Installer.exe)
 <br>
 ##### You can also visit T-Editors website [here](https://kowal05.github.io/T-Editor/)
+
+<br>
+## To do:
+<br>
+[] encyrptor/decryptor
+<br>
+[] add a "open with T-editor" when right click
