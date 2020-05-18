@@ -18,7 +18,8 @@ if someone know how to compile to a macos and or linux app on windows please let
 
 <h2>To do:</h2>
 <br>
-add a "open with T-editor" when right click
-fix buggy fonts/saving settings bug
-add file history feature 
-add so you can save the file on exit
+add a "open with T-editor" when right click<br>
+fix buggy fonts/saving settings bug<br>
+add file history feature <br>
+add so you can save the file on exit<br>
+add language support<br>
