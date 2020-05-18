@@ -1,5 +1,5 @@
 <h1 style="color=red">T-Editor v0.9</h1>
-<br><br>
+<br>(Note that this project is not serius and made so i can better undersand how github works and how to make and <i>"distibute"</i> software)<br>
 T-Editor is a simple plain text editor
 
 ![screenshot](https://kowal05.github.io/T-Editor/image.png)
@@ -22,3 +22,4 @@ fix buggy fonts/saving settings bug<br>
 add file history feature <br>
 add so you can save the file on exit<br>
 add language support<br>
+add tooltips
