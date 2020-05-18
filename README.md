@@ -15,6 +15,10 @@ source code  [here](https://download2270.mediafire.com/0bgkikavgf8g/q3xu99p42xzd
 if someone know how to compile to a macos and or linux app on windows please let me know.
 
 <br>
-## To do:
+
+<h2>To do:</h2>
 <br>
-[] add a "open with T-editor" when right click
+add a "open with T-editor" when right click
+fix buggy fonts/saving settings bug
+add file history feature 
+add so you can save the file on exit
