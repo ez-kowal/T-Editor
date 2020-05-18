@@ -2,7 +2,7 @@
 <br>(Note that this project is not serius and made so i can better undersand how github works and how to make and <i>"distibute"</i> software)<br>
 T-Editor is a simple plain text editor<br>
 <br>
-(this screenshot is from v 0.5 )
+(this screenshot is from v 0.5 )<br>
 ![screenshot](https://kowal05.github.io/T-Editor/image.png)
 
 you can download a zip file [here](https://github.com/kowal05/T-Editor/raw/master/T-Editor.zip) (only for windows) <br>
