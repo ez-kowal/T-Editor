@@ -3,24 +3,22 @@
 T-Editor is a simple plain text editor<br>
 <br>
 (this screenshot is from v 0.5 )<br>
-![screenshot](https://kowal05.github.io/T-Editor/image.png)
+![screenshot](https://raw.githubusercontent.com/ez-kowal/T-Editor/main/docs/image.png)
 
-you can download a zip file [here](https://github.com/kowal05/T-Editor/raw/master/T-Editor.zip) (only for windows) <br>
+you can download a zip file [here](https://github.com/ez-kowal/T-Editor/raw/main/T-Editor.zip) (only for windows) <br>
 <br>
-or a installer [here](https://download1639.mediafire.com/yl36d8ybrvig/puk2llyr3vpe3o1/Installer.exe) (only for windows) <br>
+or a installer [here](https://github.com/ez-kowal/T-Editor/releases/download/0.0.9/T-Editor.exe) (only for windows) <br>
 <br>
-source code  [here](https://download2270.mediafire.com/0bgkikavgf8g/q3xu99p42xzdcgx/source+code.zip)
+##### You can also visit T-Editors website [here](https://ez-kowal.github.io/T-Editor/)
 <br>
-##### You can also visit T-Editors website [here](https://kowal05.github.io/T-Editor/)
-<br>
-if someone know how to compile to a macos and or linux app on windows please let me know.
+if someone knows how to compile to a macos and or linux app on windows please let me know.
 
 <br>
 <br>
 <h2>To do:</h2>
-add a "open with T-editor" when right click<br>
+add a "open with T-editor" when right clicking on a twxt file<br>
 fix buggy fonts/saving settings bug<br>
 add file history feature <br>
-add so you can save the file on exit<br>
-add language support<br>
+add auto save<br>
+add more language support<br>
 add tooltips
