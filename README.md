@@ -3,7 +3,10 @@
 T-Editor is a simple plain text editor<br>
 <br>
 (this screenshot is from v 0.5 )<br>
+
+
 ![screenshot](https://raw.githubusercontent.com/ez-kowal/T-Editor/main/docs/image.png)
+
 
 you can download a zip file [here](https://github.com/ez-kowal/T-Editor/raw/main/T-Editor.zip) (only for windows) <br>
 <br>
